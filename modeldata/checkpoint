@@ -1,0 +1,2 @@
+model_checkpoint_path: "/media/sf_xing/phd/ai/xps/cnn_xps/modeldata/model.tfl"
+all_model_checkpoint_paths: "/media/sf_xing/phd/ai/xps/cnn_xps/modeldata/model.tfl"
