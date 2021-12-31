@@ -9,7 +9,7 @@ Python code to analyze  x-ray phonons spectroscopy (XPS) by deep learning (DL), 
 *TensorFlow and TFLearn are needed to run the code.
 
 ## Implementation
-* Generate databases for traning and testing
+* Generate databases for training and testing
 * Build a convolutional neural network model to recognize the number of peaks in the databases.
 
 
